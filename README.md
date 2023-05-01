@@ -4,7 +4,7 @@ This is the final project of Team XYZ, which is using deep neural networks for v
 
 The dataset is given in link: https://drive.google.com/drive/u/1/folders/1mun_jxWNdAyxGvi6E0qUBH_wRFaMD24q.
 
-After downloading trainval, test folder and the code in this repository, the fold structure is as follows: 
+After downloading trainval, test folder, the code in the main branch of this repository and model_our.pth in the master branch of this repository, the fold structure is as follows: 
 
 .
 │  
